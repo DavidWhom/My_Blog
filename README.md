@@ -32,3 +32,9 @@
 ### 其他
 
 + [SSO单点登录](blog/SSO单点登录.md)
+
++ [漫画：什么是数据中台](blog/什么是中台.md)
+
+
+
+> 若侵权，请[联系](https://github.com/DavidWhom/My_Blog/issues)删除
