@@ -1,5 +1,7 @@
 #  Jovan's Blog
 
+> 若侵权，请[联系](https://github.com/DavidWhom/My_Blog/issues)删除
+
 ### 我的博客
 
 + [CSDN](https://blog.csdn.net/yingshuanglu2564 )
@@ -22,6 +24,8 @@
 + [如何保证消息的可靠性传输](blog/如何保证消息的可靠性传输.md)
 
 
+
+
 ### 网络
 
 + [HTTP状态码](blog/HTTP状态码.md)
@@ -41,7 +45,3 @@
 + [SSO单点登录](blog/SSO单点登录.md)
 
 + [漫画：什么是数据中台](blog/什么是中台.md)
-
-
-
-> 若侵权，请[联系](https://github.com/DavidWhom/My_Blog/issues)删除
