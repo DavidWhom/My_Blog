@@ -47,7 +47,7 @@
 
 ### 缓存
 
-+ [缓存]([https://github.com/DavidWhom/CS-Notes-Learning/blob/master/notes/%E7%BC%93%E5%AD%98.md](https://github.com/DavidWhom/CS-Notes-Learning/blob/master/notes/缓存.md))
++ [缓存](https://github.com/DavidWhom/CS-Notes-Learning/blob/master/notes/缓存.md)
 
 
 
