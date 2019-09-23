@@ -1,5 +1,10 @@
 #  Jovan's Blog
 
+![总访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=DavidWhom.My_Blog)
+![今日来访](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=DavidWhom.My_Blog)
+[![star](http://githubbadges.com/star.svg?user=DavidWhom&repo=My_Blog&style=default)](https://github.com/DavidWhom/My_Blog)
+[![fork](http://githubbadges.com/fork.svg?user=DavidWhom&repo=My_Blog&style=default)](https://github.com/DavidWhom/My_Blog/fork)
+
 > 若侵权，请[联系](https://github.com/DavidWhom/My_Blog/issues)删除
 
 ### 我的博客
