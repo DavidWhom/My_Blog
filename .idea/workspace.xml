@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f55a564-2611-459e-a94f-e5037b064fd1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/blog/assets/640-1567058905928.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/assets/640-1567059026011.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/assets/640-1567059297812.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/assets/640-1567059699501.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/assets/640-1567059729725.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/assets/640-1567060201292.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/assets/640.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/灰度升级.md" beforeDir="false" afterPath="$PROJECT_DIR$/blog/灰度升级.md" afterDir="false" />
-    </list>
+    <list default="true" id="9f55a564-2611-459e-a94f-e5037b064fd1" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +32,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="354">
-                <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+                <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -102,6 +93,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="ignore_missing_gitignore" value="true" />
@@ -133,7 +125,7 @@
       <updated>1566022892462</updated>
       <workItem from="1566022893901" duration="4694000" />
       <workItem from="1566205377050" duration="9000" />
-      <workItem from="1567061470850" duration="530000" />
+      <workItem from="1567061470850" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="更新目录结构">
       <created>1566022989204</created>
@@ -184,15 +176,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567061653262</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="灰度升级-webp图片格式改png">
+      <created>1567062049298</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567062049298</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5233000" />
+    <option name="totallyTimeSpent" value="5367000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2553305" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -235,7 +233,8 @@
     <MESSAGE value="修改文件夹结构，文章引用图片未同步修改" />
     <MESSAGE value="更新头条号" />
     <MESSAGE value="新增灰度升级" />
-    <option name="LAST_COMMIT_MESSAGE" value="新增灰度升级" />
+    <MESSAGE value="灰度升级-webp图片格式改png" />
+    <option name="LAST_COMMIT_MESSAGE" value="灰度升级-webp图片格式改png" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -254,7 +253,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="354">
-            <caret line="107" column="21" lean-forward="true" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
+            <caret line="107" column="21" selection-start-line="107" selection-start-column="21" selection-end-line="107" selection-end-column="21" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
